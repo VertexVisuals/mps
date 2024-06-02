@@ -100,7 +100,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.pickAllObjects((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.Game_40Physics_41Code.mapOfGDgdjs_9546Game_959540Physics_959541Code_9546GDBlock_959595951Objects1ObjectsGDgdjs_9546Game_959540Physics_959541Code_9546GDBlock_959595952Objects1ObjectsGDgdjs_9546Game_959540Physics_959541Code_9546GDBlock_959595953Objects1Objects);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(15804068);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10936516);
 }
 }
 if (isConditionTrue_0) {
@@ -190,7 +190,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonReleased(runtimeScene, "Left");
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11623572);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10922372);
 }
 }
 if (isConditionTrue_0) {
@@ -216,7 +216,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonReleased(runtimeScene, "Left");
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11774068);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10926004);
 }
 }
 if (isConditionTrue_0) {
@@ -260,7 +260,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonReleased(runtimeScene, "Left");
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(15795860);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10928308);
 }
 }
 if (isConditionTrue_0) {
@@ -286,7 +286,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonReleased(runtimeScene, "Left");
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(15799556);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10932004);
 }
 }
 if (isConditionTrue_0) {
@@ -1232,7 +1232,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.physics2.objectsCollide(gdjs.Game_40Physics_41Code.mapOfGDgdjs_9546Game_959540Physics_959541Code_9546GDBallObjects2Objects, "Physics2", gdjs.Game_40Physics_41Code.mapOfGDgdjs_9546Game_959540Physics_959541Code_9546GDPaddleObjects2Objects, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11682212);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10776924);
 }
 }
 if (isConditionTrue_0) {
@@ -1255,7 +1255,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.physics2.objectsCollide(gdjs.Game_40Physics_41Code.mapOfGDgdjs_9546Game_959540Physics_959541Code_9546GDBallObjects2Objects, "Physics2", gdjs.Game_40Physics_41Code.mapOfGDgdjs_9546Game_959540Physics_959541Code_9546GDBarrierObjects2Objects, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11685036);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10779492);
 }
 }
 if (isConditionTrue_0) {
@@ -1529,7 +1529,7 @@ for (var i = 0, k = 0, l = gdjs.Game_40Physics_41Code.GDBlock_95953Objects1.leng
 gdjs.Game_40Physics_41Code.GDBlock_95953Objects1.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11694924);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10788876);
 }
 }
 }
@@ -1578,7 +1578,7 @@ gdjs.Game_40Physics_41Code.eventsList17 = function(runtimeScene) {
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11721956);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10811556);
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("Backdrop"), gdjs.Game_40Physics_41Code.GDBackdropObjects2);
@@ -1848,7 +1848,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.physics2.objectsCollide(gdjs.Game_40Physics_41Code.mapOfGDgdjs_9546Game_959540Physics_959541Code_9546GDPaddleObjects1Objects, "Physics2", gdjs.Game_40Physics_41Code.mapOfGDgdjs_9546Game_959540Physics_959541Code_9546GDPowerUpObjects1Objects, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11711820);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10802972);
 }
 }
 if (isConditionTrue_0) {
@@ -1871,7 +1871,7 @@ gdjs.Game_40Physics_41Code.eventsList20 = function(runtimeScene) {
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11726796);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10815204);
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(gdjs.Game_40Physics_41Code.GDBallObjects1, gdjs.Game_40Physics_41Code.GDBallObjects2);
@@ -1907,7 +1907,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.physics2.objectsCollide(gdjs.Game_40Physics_41Code.mapOfGDgdjs_9546Game_959540Physics_959541Code_9546GDBallObjects2Objects, "Physics2", gdjs.Game_40Physics_41Code.mapOfGDgdjs_9546Game_959540Physics_959541Code_9546GDBlock_959595951Objects2ObjectsGDgdjs_9546Game_959540Physics_959541Code_9546GDBlock_959595952Objects2ObjectsGDgdjs_9546Game_959540Physics_959541Code_9546GDBlock_959595953Objects2Objects, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11728788);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10816524);
 }
 }
 if (isConditionTrue_0) {
@@ -2013,7 +2013,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.pickedObjectsCount(gdjs.Game_40Physics_41Code.mapOfGDgdjs_9546Game_959540Physics_959541Code_9546GDBallObjects3Objects) == 0;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11736236);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10822604);
 }
 }
 if (isConditionTrue_0) {
@@ -2086,7 +2086,7 @@ if(isConditionTrue_1) {
 }
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11740828);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10825948);
 }
 }
 if (isConditionTrue_0) {
@@ -2169,7 +2169,7 @@ gdjs.Game_40Physics_41Code.eventsList24 = function(runtimeScene) {
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11744524);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10828980);
 }
 if (isConditionTrue_0) {
 {gdjs.evtTools.camera.hideLayer(runtimeScene, "PreStartCard");
@@ -2194,7 +2194,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.variable.getVariableNumber(runtimeScene.getScene().getVariables().getFromIndex(7)) <= 0;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11745636);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10829956);
 }
 }
 if (isConditionTrue_0) {
@@ -2222,7 +2222,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.pickedObjectsCount(gdjs.Game_40Physics_41Code.mapOfGDgdjs_9546Game_959540Physics_959541Code_9546GDBlock_959595951Objects2ObjectsGDgdjs_9546Game_959540Physics_959541Code_9546GDBlock_959595952Objects2ObjectsGDgdjs_9546Game_959540Physics_959541Code_9546GDBlock_959595953Objects2Objects) <= 0;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11746692);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10831244);
 }
 }
 if (isConditionTrue_0) {
@@ -2290,7 +2290,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.variable.getVariableString(runtimeScene.getScene().getVariables().getFromIndex(0)) == "Lost";
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11747972);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10832188);
 }
 }
 if (isConditionTrue_0) {
@@ -2316,7 +2316,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.variable.getVariableString(runtimeScene.getScene().getVariables().getFromIndex(0)) == "Won";
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11749420);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10833452);
 }
 }
 if (isConditionTrue_0) {
@@ -2444,7 +2444,7 @@ for (var i = 0, k = 0, l = gdjs.Game_40Physics_41Code.GDBallObjects1.length;i<l;
 gdjs.Game_40Physics_41Code.GDBallObjects1.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11752340);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10836444);
 }
 }
 if (isConditionTrue_0) {
